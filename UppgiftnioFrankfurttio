@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Uppgift nio Frankfurt tio</title>
+    </head>
+    <style>
+        body {
+            background-color: rgb(255, 255, 0);
+        }
+        .text {
+            font-family: cursive;
+            font-size: 25px;
+            color: rgb(0, 0, 0);
+        }
+        #Rubrik {
+            color: rgb(255, 0, 0);
+        }
+    </style>
+    <body>
+        <h1 id = "rubrik"><strong>Världens bästa ramsa:</strong></h1>
+        <p id = "p1" class = "text"><em>Uppgift nio, Frankfurt tio</em></p>
+        <p id = "p2" class = "text"><em>Sida 17, Sida 21</em></p>
+        <p id = "p3" class = "text"><em> Och en riktig monstergenomgång!</em></p>
+
+    </body>
+</html>
